@@ -32,7 +32,7 @@ src/
    - Se utiliza `React.memo` para evitar renderizados innecesarios.
    - `useMemo` para memorizar la lista filtrada.
    - `useCallback` para optimizar las funciones que cambian el estado.
-3. **Integración con la API de Random User**: Obtiene una lista de 50 usuarios aleatorios desde la API.
+3. **Integración con la API de Random User**: Obtiene una lista de 15 usuarios aleatorios desde la API.
 4. **Atomic Design**: Mejora la escalabilidad y mantenimiento del código.
 
 ## Scripts Disponibles
@@ -63,7 +63,7 @@ Sigue los siguientes pasos para clonar y ejecutar este proyecto en tu entorno lo
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/users-react.git
+   git clone https://github.com/AlissonAlvarez/users-react.git
    ```
 
 2. Instala las dependencias:
